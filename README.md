@@ -47,3 +47,7 @@ The implementation has been divided into two separate processes: the client part
 ## Report 
   
 [Report](https://github.com/pranath-reddy/COP5615-Twitter/blob/main/project4.pdf)  
+  
+## Project Part-2
+  
+[Part-2](https://github.com/pranath-reddy/COP5615-Twitter-WebSocket)
