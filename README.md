@@ -25,6 +25,7 @@ The implementation has been divided into two separate processes: the client part
 
 **Compile:** ```c(client).```   
 **Execute:** 
+  
 ```client:main(IP Address, "Register").```   
 ```client:main(IP Address, "Login").```   
 
@@ -45,4 +46,4 @@ The implementation has been divided into two separate processes: the client part
 
 ## Report 
   
-[Report]()  
+[Report](https://github.com/pranath-reddy/COP5615-Twitter/blob/main/project4.pdf)  
